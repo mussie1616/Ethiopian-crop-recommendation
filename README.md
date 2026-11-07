@@ -217,5 +217,5 @@ On GitHub:
 
 ## Submission contents
 - Project folder (this ZIP): code, model, data, notebook, report, `outputs/`, `evidence/`, `docs/`, `logs/`.
-- Capstone video: submitted separately as an MP4 (10 minutes or less, 250 MB or less); the script is `docs/Capstone_Video_Script.docx`.
+- Capstone video: submitted separately as an MP4 (10 minutes or less, 250 MB or less); 
 - No credentials, API keys or confidential data are included; the training data are treated as synthetic (see `docs/Simulated_Data_Statement.docx`).
